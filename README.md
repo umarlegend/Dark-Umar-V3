@@ -1,23 +1,23 @@
-# NANDHUTTY-V3
+# DARK UMAR-V3
 
 <div align="center">
   <img border-radius: 15px src="https://telegra.ph/file/a5476198bcf35794b7953.jpg" width="200" height="200"/>
 
 <p align="center">
   <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/918590967139"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://wa.me/923165123719"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
 
 ## ```HOW TO DEPLOY```
 `WATCH THE TUTORIAL VIDEO CAREFULLY TO DEPLOY THE BOT OTHERWISE CHANCES TO GET ERROR`
 
-[`Click Here For Tutorial`](https://youtu.be/bb2YfTT4Hv4)
+[`Click Here For Tutorial`](https://youtu.)
 
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/bb2YfTT4Hv4"><img src="https://telegra.ph/file/1b06aa3851c72d40f7a8f.jpg" />
+  <a href="https://youtu."><img src="https://telegra.ph/file/1b06aa3851c72d40f7a8f.jpg" />
 </p>
 
 -------
